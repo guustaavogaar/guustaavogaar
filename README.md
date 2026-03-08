@@ -19,18 +19,18 @@ Estudiante de cuarto año apasionado por transformar datos en decisiones estrat�
 
 ### 🚀 Experiencia y Enfoque
 
-* [cite_start]**IA & NLP:** Experiencia en el desarrollo de Chatbots y técnicas de procesamiento de lenguaje natural[cite: 14, 57].
-* [cite_start]**Modelado Predictivo:** Aplicación de algoritmos de clasificación, regresión y Deep Learning para la optimización de resultados[cite: 26, 27, 29].
-* [cite_start]**Cloud Computing:** Manejo de infraestructura como servicio en AWS[cite: 23, 62].
+* **IA & NLP:** Experiencia en el desarrollo de Chatbots y técnicas de procesamiento de lenguaje natural.
+* **Modelado Predictivo:** Aplicación de algoritmos de clasificación, regresión y Deep Learning para la optimización de resultados.
+* **Cloud Computing:** Manejo de infraestructura como servicio en AWS.
 
 ---
 
 ### 📫 Contacto
 
 * 💼 **LinkedIn:** * 💼 **LinkedIn:** [linkedin.com/in/gustavo-garcía-fernández-66ab0530b/](https://linkedin.com/in/gustavo-garcía-fernández-66ab0530b/) 
-* [cite_start]📧 **Email:** [gustavogarciafernandez04@gmail.com](mailto:gustavogarciafernandez04@gmail.com)
-* [cite_start]🌍 **Ubicación:** Murcia, España
-* [cite_start]🗣️ **Idiomas:** Español (Nativo), Inglés (C1 Advanced) 
+* 📧 **Email:** [gustavogarciafernandez04@gmail.com](mailto:gustavogarciafernandez04@gmail.com)
+* 🌍 **Ubicación:** Murcia, España
+* 🗣️ **Idiomas:** Español (Nativo), Inglés (C1 Advanced) 
 
 ---
 
