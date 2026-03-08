@@ -25,19 +25,11 @@ Estudiante de cuarto año apasionado por transformar datos en decisiones estrat�
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=guustaavogaar&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Gustavo" />
-</p>
-
----
-
 ### 📫 Contacto
 
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario) 
-* [cite_start]📧 **Email:** [gustavogarciafernandez04@gmail.com](mailto:gustavogarciafernandez04@gmail.com) [cite: 7]
-* [cite_start]🌍 **Ubicación:** Murcia, España [cite: 9]
+* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/gustavo-garc%C3%ADa-fern%C3%A1ndez-66ab0530b/)) 
+* [cite_start]📧 **Email:** [gustavogarciafernandez04@gmail.com](mailto:gustavogarciafernandez04@gmail.com)
+* [cite_start]🌍 **Ubicación:** Murcia, España
 * [cite_start]🗣️ **Idiomas:** Español (Nativo), Inglés (C1 Advanced) 
 
 ---
