@@ -27,7 +27,7 @@ Estudiante de cuarto año apasionado por transformar datos en decisiones estrat�
 
 ### 📫 Contacto
 
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/gustavo-garc%C3%ADa-fern%C3%A1ndez-66ab0530b/)) 
+* 💼 **LinkedIn:** * 💼 **LinkedIn:** [linkedin.com/in/gustavo-garcía-fernández-66ab0530b/](https://linkedin.com/in/gustavo-garcía-fernández-66ab0530b/) 
 * [cite_start]📧 **Email:** [gustavogarciafernandez04@gmail.com](mailto:gustavogarciafernandez04@gmail.com)
 * [cite_start]🌍 **Ubicación:** Murcia, España
 * [cite_start]🗣️ **Idiomas:** Español (Nativo), Inglés (C1 Advanced) 
